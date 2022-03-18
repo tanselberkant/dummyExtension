@@ -1,0 +1,11 @@
+{
+    "name": "Random Coffee",
+    "version": "1.0.0",
+    "description": "Random Coffee using Random Data API",
+    "manifest_version": 3,
+    "author": "Tansel Berkant Oflaz",
+    "action": {
+        "default-popup": "index.html",
+        "default-title": "Random Coffee"
+    }
+}
