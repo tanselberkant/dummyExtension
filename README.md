@@ -1,4 +1,4 @@
-# Dummy Random Coffee Extension
+# Random Coffee Extension
 
 I tried to work on Chrome Extension in this repo. I get my random data from https://random-data-api.com.
 
