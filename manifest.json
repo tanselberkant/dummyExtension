@@ -4,8 +4,8 @@
     "description": "Random Coffee using Random Data API",
     "manifest_version": 3,
     "author": "Tansel Berkant Oflaz",
-    "action": {
-        "default-popup": "index.html",
-        "default-title": "Random Coffee"
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Latest Covid Report"
     }
 }
